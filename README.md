@@ -21,8 +21,8 @@ ai论文一键生成，毕业论文、专升本论文、课程论文、期刊论
 
 ![image.png](./aadceeb5bc567d354daa9065728f4f4a.png)
 
-- 操作文档: <https://taoxiang.feishu.cn/wiki/HwwfwaCwmiJFdTkx9MqcNWYenYN?from=from_copylink>
-- 操作文档: <https://taoxiang.feishu.cn/wiki/HwwfwaCwmiJFdTkx9MqcNWYenYN?from=from_copylink>
+- 副业介绍: <https://taoxiang.feishu.cn/wiki/HwwfwaCwmiJFdTkx9MqcNWYenYN?from=from_copylink>
+- 操作文档: <https://taoxiang.feishu.cn/wiki/Uaf0wALDpivJqJk8u1DcjyWKnhf?from=from_copylink>
 
 ## C端功能特性
 
